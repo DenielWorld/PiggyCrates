@@ -5,6 +5,7 @@ crates:
         #id: (id of drop)
         #meta: 0 (meta/dmg value of item)
         #amount: 10 (amount of items that are received from this drop)
+        #chance: 1-100 (The chance of this item to be dropped from the crate)
         #enchantments:
           #enchantment1:
             #level: 1
